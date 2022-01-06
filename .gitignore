@@ -36,3 +36,6 @@ Makefile
 
 # executable
 main
+
+# Images
+/images
